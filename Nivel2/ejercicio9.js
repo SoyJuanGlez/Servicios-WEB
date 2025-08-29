@@ -1,3 +1,4 @@
+// Declaro un objeto persona con varias propiedades, incluyendo nacionalidad
 const persona = {
     nombre: "Juan",
     edad: 30,
@@ -5,4 +6,5 @@ const persona = {
     nacionalidad: "Mexicana"
 };
 
+// Imprimo la nacionalidad de la persona
 console.log(persona.nacionalidad);
